@@ -1,0 +1,19 @@
+{
+  "name": "malnabelasassyseo-1",
+  "version": "1.0.0",
+  "description": "Comunicacion Integral",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dansek2021/MalnabelaSASSySEO.git"
+  },
+  "author": "Daniela Sekiguchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dansek2021/MalnabelaSASSySEO/issues"
+  },
+  "homepage": "https://github.com/dansek2021/MalnabelaSASSySEO#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

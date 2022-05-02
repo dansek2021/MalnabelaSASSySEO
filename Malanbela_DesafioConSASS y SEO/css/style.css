@@ -32,7 +32,7 @@ header {
 .bg-nav:hover {
   background-color: #a9b479;
 }
-
+/*Footer*/
 .redes-sociales ul, .floor, .navegacion, .intro, header .header-container, body .hijo {
   display: flex;
   justify-content: space-evenly;
@@ -183,6 +183,3 @@ div .contenedor {
   text-align: center;
 }
 
-/* Inicio*/
-
-/*# sourceMappingURL=style.css.map */
